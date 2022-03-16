@@ -7,8 +7,7 @@ namespace ConsoleApp1
 
 		 static void Main(string[] args)
 		{
-			Console.WriteLine("Hellow Ermin");
-
+			Console.WriteLine("hi");
 			Console.WriteLine("Hellow World");
 		}
 	}
